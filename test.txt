@@ -1,6 +1,9 @@
 java
+<<<<<<< HEAD
 jave234
 java123
 java456
 java123
 java989
+=======
+>>>>>>> parent of f4cf091 (update test.txt java234)
