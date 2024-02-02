@@ -1,6 +1,3 @@
 java
-<<<<<<< Updated upstream
 jave234
-=======
 java123
->>>>>>> Stashed changes
